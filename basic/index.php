@@ -1,6 +1,6 @@
-<link rel="stylesheet" href="../main/css/jquery.bxslider.css">
-	<script src="../main/js/jquery-1.8.3.min.js"></script>
-	<script src="../main/js/jquery.bxslider.js"></script>
+<link rel="stylesheet" href="../sulgi6225/css/jquery.bxslider.css">
+	<script src="../sulgi6225/js/jquery-1.8.3.min.js"></script>
+	<script src="../sulgi6225/js/jquery.bxslider.js"></script>
 
 <?php
 define('_INDEX_', true);
